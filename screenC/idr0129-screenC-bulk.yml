@@ -1,0 +1,4 @@
+---
+target: "Screen:name:idr0129-georgi-rhinovirus/screenC"
+include: "../bulk.yml"
+path: "idr0129-screenC-plates.tsv"
