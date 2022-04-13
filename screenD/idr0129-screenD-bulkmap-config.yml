@@ -11,6 +11,10 @@ defaults:
 
 columns:
 
+  - name: Comment [Experimental Results]
+    clientname: Experimental Results
+    include: true
+
   - name: Experimental Condition [DMSO solvent]
     clientname: DMSO solvent
     include: true
