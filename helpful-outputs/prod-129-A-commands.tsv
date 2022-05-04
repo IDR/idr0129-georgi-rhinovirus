@@ -1,0 +1,2 @@
+python /uod/idr/metadata/idr-utils/scripts/annotate/attach_file.py Rhinovirus-20220113-Globus/RV/1-prePlates/Data_UZH/Results/180222-6-44-RV-preScreen_Plate_11620_ImageData.csv Plate:9784
+python /uod/idr/metadata/idr-utils/scripts/annotate/attach_file.py Rhinovirus-20220113-Globus/RV/1-prePlates/Data_UZH/Results/170828-preZ-p9-HRV_Plate_674_ImageData.csv Plate:9785
